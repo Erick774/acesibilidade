@@ -58,8 +58,6 @@ section {
     align-items: flex-start;
     gap: 1rem;
 }
-
-
 .botao-inicio {
     background-color: var(--laranja-claro);
     border-radius: 30px;
